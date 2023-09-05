@@ -35,7 +35,7 @@ The goal of this project is to backup and restore data on the EC2 instance
     # OR
     vim example.txt
     ```
-2. **Edit File**: Use a text editor like `nano` or `vi` to edit the file.
+2. **Edit File**: Use a text editor like `nano` or `vim` to edit the file.
 
     ```bash
     nano example.txt
